@@ -4,11 +4,10 @@ ONLY FOR DEMO PURPOSE
 
 # Requirements
 
-- Install **helm** : https://helm.sh/docs/intro/install/
+- Install **Helm** : https://helm.sh/docs/intro/install/
 - Install **Terraform** : https://learn.hashicorp.com/tutorials/terraform/install-cli
 - Install **TFSec** : https://aquasecurity.github.io/tfsec/v1.21.0/guides/installation/
 - Install **Trivy** : https://aquasecurity.github.io/trivy/v0.18.3/installation/
-- Install **Checkov** : https://www.checkov.io/2.Basics/Installing%20Checkov.html
 
 # Set-up
 
